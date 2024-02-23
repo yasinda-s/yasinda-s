@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasinda!</h1>
 <h3 align="center">Passionate about providing efficient solutions to real-world problems using computer science and artificial intelligence.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinda-s" alt="yasinda-s" /></a> </p>
-
 - 🔭 I’m currently working on **a comparison study on YOLOv8 and YOLOV8 on segmentation and pose estimation.**
 
 - 🌱 I’m currently learning **how to build production level E2E machine learning pipelines to automate the versioning/deploying process.**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinda-s&show_icons=true&locale=en&layout=compact" alt="yasinda-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinda-s&show_icons=true&locale=en" alt="yasinda-s" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinda-s" alt="yasinda-s" /></a> </p>
