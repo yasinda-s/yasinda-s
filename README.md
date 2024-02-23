@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasinda!</h1>
 <h3 align="center">Passionate about providing efficient solutions to real-world problems using computer science and artificial intelligence.</h3>
 
-- 🔭 I’m currently working on **a comparison study on YOLOv8 and YOLOV8 on segmentation and pose estimation.**
+- 🔭 I’m currently working on **a comparison study on YOLOv8 and YOLOV9 on segmentation and pose estimation.**
 
 - 🌱 I’m currently learning **how to build production level E2E machine learning pipelines to automate the versioning/deploying process.**
 
