@@ -25,6 +25,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yasinda-s&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=yasinda-s&icon=0&color=1)](https://visitcount.itsvg.in)
