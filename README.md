@@ -1,6 +1,6 @@
 # 💫 Hi There, I'm Yasinda :)
 - 💬 Let's talk about **all things AI/ML**<br><br>
-- 📫 Reach me at yasindasamaranayake@gmail.com
+- 📫 Reach me at yasindasamaranayake@gmail.com for inquiries 
 
 
 ## 🌐 Socials:
